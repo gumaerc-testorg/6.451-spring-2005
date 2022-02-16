@@ -5,8 +5,13 @@ description: This resource contains notes on signal constellations for the AWGN 
   orthogonal and related signal sets, performance in the bandwidth-limited regime,
   design of small signal constellations, and summary of performance analysis and coding
   gain.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/9c669af76ebf74ffe46645541f1ff6b3_chap_5.pdf
+file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/9c669af76ebf74ffe46645541f1ff6b3_chap_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: chap_5.pdf
 uid: 9c669af7-6ebf-74ff-e466-45541f1ff6b3

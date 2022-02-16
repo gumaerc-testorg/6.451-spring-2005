@@ -3,8 +3,13 @@ content_type: resource
 description: This file contains solutions for problems on cartesian-product constellations,
   invariance to translation, orthogonal transformations, or scaling, optimality of
   zero-mean constellations, non-equiprobable signals, and UBE for M -PAM constellations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/ea7b0e888a9a878ab1020ce609f22957_ps2solns.pdf
+file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/ea7b0e888a9a878ab1020ce609f22957_ps2solns.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps2solns.pdf
 uid: ea7b0e88-8a9a-878a-b102-0ce609f22957

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource gives solutions for the two problems for the midterm exam
   2002 and the scores for the problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/233218e32dcdaa3019f0aba50e98414b_midtermsol02.pdf
+file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/233218e32dcdaa3019f0aba50e98414b_midtermsol02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midtermsol02.pdf
 uid: 233218e3-2dcd-aa30-19f0-aba50e98414b

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Reed-Solomon Codes ([PDF](resources/chap8 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Reed-Solomon Codes'
 uid: 3e5d741e-c462-b363-cfaf-c42b6369f678
 video_files:
   archive_url: https://archive.org/download/MIT6.451S05/10ocw-6.451_4-261-07mar2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/f50c7934c9575f029f31ff5d333681fe_Nnj9lHePqKM.vtt
+  video_captions_file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/f50c7934c9575f029f31ff5d333681fe_Nnj9lHePqKM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Nnj9lHePqKM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/5ad518576018197e18919105b7c58cf8_Nnj9lHePqKM.pdf
+  video_transcript_file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/5ad518576018197e18919105b7c58cf8_Nnj9lHePqKM.pdf
 video_metadata:
   youtube_id: Nnj9lHePqKM
 ---

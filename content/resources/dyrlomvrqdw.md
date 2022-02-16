@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/05011b34c8bda9f85f723da708b4baa7_DyRLOmVRQDw.srt
+file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/05011b34c8bda9f85f723da708b4baa7_DyRLOmVRQDw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 05011b34-c8bd-a9f8-5f72-3da708b4baa7

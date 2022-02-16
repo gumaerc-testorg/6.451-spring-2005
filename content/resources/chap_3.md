@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides outline of proof of the capacity theorem, notes
   on laws of large numbers, and geometric interpretation and converse.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/cc4381c9d29759cab78daa5bd1405664_chap_3.pdf
+file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/cc4381c9d29759cab78daa5bd1405664_chap_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: chap_3.pdf
 uid: cc4381c9-d297-59ca-b78d-aa5bd1405664

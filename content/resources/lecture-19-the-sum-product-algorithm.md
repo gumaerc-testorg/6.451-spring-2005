@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: The Sum-Product Algorithm ([PDF](resources/chap12 "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: The Sum-Product Algorithm '
 uid: eed1563e-794f-269c-5921-25c3bcd253ce
 video_files:
   archive_url: https://archive.org/download/MIT6.451S05/19ocw-6.451_4-261-20apr2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/f197ca86d10053f2aa91a53f0085b4b3_dy44BdqxRAo.vtt
+  video_captions_file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/f197ca86d10053f2aa91a53f0085b4b3_dy44BdqxRAo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dy44BdqxRAo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/e7d4844c93a7d1f826d32f23cc5b4da6_dy44BdqxRAo.pdf
+  video_transcript_file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/e7d4844c93a7d1f826d32f23cc5b4da6_dy44BdqxRAo.pdf
 video_metadata:
   youtube_id: dy44BdqxRAo
 ---

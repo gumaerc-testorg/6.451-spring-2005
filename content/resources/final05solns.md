@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-451-principles-of-digital-communication-ii-spring-2005/b3a4aba6e9aff98b7fefd0b83bcadd1f_final05solns.pdf
+file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/b3a4aba6e9aff98b7fefd0b83bcadd1f_final05solns.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: final05solns.pdf
 uid: b3a4aba6-e9af-f98b-7fef-d0b83bcadd1f
