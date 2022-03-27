@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 73f9a1c9-1575-f1a3-abda-44e7358df3a2
 resourcetype: Document
 title: chap8.pdf
 uid: 01060b08-ba74-792e-e8d8-5eb82b9efdb4

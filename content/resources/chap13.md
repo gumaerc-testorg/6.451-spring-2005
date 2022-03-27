@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 73f9a1c9-1575-f1a3-abda-44e7358df3a2
 resourcetype: Document
 title: chap13.pdf
 uid: 1a3ad00d-83d1-d042-da33-28a8edd9edc2

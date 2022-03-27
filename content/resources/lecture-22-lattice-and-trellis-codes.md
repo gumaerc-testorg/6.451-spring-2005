@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: ''
 resource_index_text: <p>Lattice and Trellis Codes (<a title="Open in a new window."
   target="_blank" href="./resolveuid/5507a5832ab1c9b489ea100d9e2dd2bf">PDF</a>)</p>
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Lattice and Trellis Codes'
 uid: 42988812-8732-34ef-2576-5179d2511022
 video_files:

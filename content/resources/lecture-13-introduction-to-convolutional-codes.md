@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Introduction to Convolutional Codes ([PDF](resources/cha
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Introduction to Convolutional Codes'
 uid: b6b78376-8e51-c2f9-5bd3-ca2d397bfda9
 video_files:

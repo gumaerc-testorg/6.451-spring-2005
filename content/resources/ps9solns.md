@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 429aa445-ec35-d484-97ce-c9ef10fc57fd
 resourcetype: Document
 title: ps9solns.pdf
 uid: cc89c697-c7e1-d55d-bc90-98c1685a7298

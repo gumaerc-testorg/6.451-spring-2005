@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -18,6 +19,7 @@ related_resources_text: 'Introduction ([PDF](resources/chap_1 "Open in a new win
   Capacity of AWGN Channels ([PDF](resources/chap_3 "Open in a new window."))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction Sampling Theorem'
 uid: 4a96c050-6bb6-52c1-deef-5d8915fdfff8
 video_files:

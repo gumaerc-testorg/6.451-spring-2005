@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: The Sum-Product Algorithm ([PDF](resources/chap12 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: The Sum-Product Algorithm '
 uid: eed1563e-794f-269c-5921-25c3bcd253ce
 video_files:

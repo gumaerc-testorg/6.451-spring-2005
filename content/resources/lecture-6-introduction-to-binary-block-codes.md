@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Introduction to Binary Block Codes ([PDF](resources/chap
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Introduction to Binary Block Codes'
 uid: 351150ec-4eae-c6ab-e7a8-c2900b997f62
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Reed-Solomon Codes ([PDF](resources/chap8 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Reed-Solomon Codes'
 uid: b0b90c8a-2a42-ab2a-7c3b-f7391f004c6d
 video_files:

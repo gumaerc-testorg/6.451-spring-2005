@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Trellis Representations of Binary Linear Block Codes ([P
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Trellis Representations of Binary Linear Block Codes'
 uid: 7ad94965-787c-b2d3-8202-c3b259b46d83
 video_files:

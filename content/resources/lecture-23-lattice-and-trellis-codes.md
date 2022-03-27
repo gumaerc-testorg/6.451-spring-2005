@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lattice and Trellis Codes ([PDF](resources/chap14 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Lattice and Trellis Codes '
 uid: a375bcf2-6f59-c56b-39cf-b8b5b96902a8
 video_files:

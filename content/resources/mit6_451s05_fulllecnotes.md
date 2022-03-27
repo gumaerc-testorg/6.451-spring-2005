@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 429ef237-4ae2-6213-2915-f2fbc03ca463
 resourcetype: Document
 title: '6.451 S05: Complete Lecture Notes'
 uid: bb895c1d-ee9c-e0b3-9d68-46e0aa984981
