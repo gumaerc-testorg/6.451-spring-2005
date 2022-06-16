@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-451-principles-of-digital-communication-ii-spring-2005/89f028e5ca5a568ba8e8a167ad14bcd2_KalMFMv3_IM.vtt
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/89f028e5ca5a568ba8e8a167ad14bcd2_KalMFMv3_IM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

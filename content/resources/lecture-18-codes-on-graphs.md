@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Codes on Graphs ([PDF](resources/chap11 "Open in a new window."))
+related_resources_text: Codes on Graphs ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap11))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Codes on Graphs
 
 **Instructor:** Prof. David Forney
+
+
+

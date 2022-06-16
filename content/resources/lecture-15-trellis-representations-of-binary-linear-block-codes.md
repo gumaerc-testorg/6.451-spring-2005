@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Trellis Representations of Binary Linear Block Codes ([PDF](resources/chap10
-  "Open in a new window."))
+related_resources_text: Trellis Representations of Binary Linear Block Codes ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap10))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Trellis Representations of Binary Linear Block Codes
 
 **Instructor:** Prof. David Forney
+
+
+

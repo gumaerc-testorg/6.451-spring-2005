@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: The lecture notes section contains the information regarding the chapters
+  to be covered for each lecture topic in the different lecture sessions and the associated
+  files.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
