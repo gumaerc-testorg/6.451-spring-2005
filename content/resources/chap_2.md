@@ -7,6 +7,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/7cb39293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chap_2.pdf
 uid: 7cb39293-41f0-7278-6598-cd05c69a3f5c
 ---
 This resource provides notes on continuous-time AWGN channel model, signal spaces, sampling theorem, white Gaussian noise (WGN), continuous time to discrete time, and orthonormal PAM and QAM modulation.
-

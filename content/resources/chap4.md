@@ -7,6 +7,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/b2861239
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chap4.pdf
 uid: b2861239-8994-5cef-13e5-a9aa20e56a18
 ---
 This resource contains notes on Discrete-time AWGN channel model, two normalized measures of SNR, power-limited and bandwidth-limited channels, and performance of M-PAM and (M ? M )-QAM.
-

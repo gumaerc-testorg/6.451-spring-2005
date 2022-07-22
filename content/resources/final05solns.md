@@ -5,6 +5,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/b3a4aba6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

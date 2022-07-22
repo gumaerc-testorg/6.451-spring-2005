@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/426c3acf789058f3ca67b31cecb802b5_CxgU2Gtg5ro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

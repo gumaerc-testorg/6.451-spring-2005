@@ -8,6 +8,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/13a4ba8a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: midterm03.pdf
 uid: 13a4ba8a-120c-ea69-3cbc-1959a80c025b
 ---
 This resource gives the instructions on how to take the closed book exam, it also gives the breakup of marks for each problem and its parts. It cotains two problems on: feasibility study for a digital communication system and propositions with data tables useful to solve the problems.
-

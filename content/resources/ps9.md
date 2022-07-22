@@ -7,6 +7,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/81263d3a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps9.pdf
 uid: 81263d3a-8c39-4108-cb1e-4be5b0b68cb0
 ---
 This file contains 5 problems on BCJR (sum-product) decoding of SPC codes, iterative decoding on the BEC, simulation of LDPC decoding on a BEC, iterative decoding threshold, stability condition, and sum-product update rule for zero-sum nodes.
-

@@ -7,6 +7,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/8543b757
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps3.pdf
 uid: 8543b757-a3f4-1f99-a548-2d8d4a59789c
 ---
 This file contains 6 problems on invariance of coding gain, orthogonal signal sets, simplex signal sets, biorthogonal signal sets, small nonbinary constellations, even-weight codes have better coding gain.
-

@@ -7,6 +7,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/1a3ad00d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chap13.pdf
 uid: 1a3ad00d-83d1-d042-da33-28a8edd9edc2
 ---
 This resource provides notes on LDPC codes, turbo codes, Repeat-accumulate codes, analysis of LDPC codes on the binary erasure channel, and LDPC code analysis on symmetric binary-input channels.
-

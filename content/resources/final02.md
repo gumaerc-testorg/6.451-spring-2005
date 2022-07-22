@@ -9,6 +9,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/48a03949
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: final02.pdf
 uid: 48a03949-a414-2318-ff9a-90f4b1dbdc84
 ---
 This resource gives some tables containing useful data to solve the given problems and three problems on convolution code over the quaternary field, graphical representations and decoding of the (32; 16; 8) binary Reed-Muller code RM(2; 5) and various propositions. It also provides instructions for how to take the closed book exam.
-

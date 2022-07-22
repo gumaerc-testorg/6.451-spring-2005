@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/a4dbf0718fe05c12b86e4453cba5093c_4HtXKIbiOvI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
