@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The calendar contains the session wise schedule for the lecture topics
+  to be covered in the course, and the chapters to be covered for each of these lecture
+  topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 49f72e32-1d09-9790-cff8-42eb61b209ae
 ---

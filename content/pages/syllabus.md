@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains information about credits, prerequisites, Text,
+  Course Handouts, Problem Sets, Exams and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2b13d8a5-5801-8dc9-8766-2ce38bf96b52
 ---
@@ -22,7 +26,7 @@ Prerequisite
 Text
 ----
 
-None required. Course notes are provided in the [Video Lectures]({{< baseurl >}}/video_galleries/video-lectures) section.
+None required. Course notes are provided in the {{% resource_link 73f9a1c9-1575-f1a3-abda-44e7358df3a2 "Video Lectures" %}} section.
 
 Course Handouts
 ---------------
