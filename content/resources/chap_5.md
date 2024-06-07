@@ -6,6 +6,7 @@ description: This resource contains notes on signal constellations for the AWGN 
   design of small signal constellations, and summary of performance analysis and coding
   gain.
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/9c669af76ebf74ffe46645541f1ff6b3_chap_5.pdf
+file_size: 273523
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

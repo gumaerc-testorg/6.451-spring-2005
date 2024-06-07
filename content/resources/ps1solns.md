@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains solutions for problems on compound interest and dB,
   biorthogonal codes, 16-QAM signal sets, and shaping gain of spherical signal sets.
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/334ceae860636a0c35b179192be61104_ps1solns.pdf
+file_size: 184026
 file_type: application/pdf
 learning_resource_types:
 - Assignments
