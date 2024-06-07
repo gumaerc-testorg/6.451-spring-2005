@@ -4,6 +4,7 @@ description: This file contains 6 problems on rational realizations, rational wh
   is eventually periodic, input/output properties, SPC codes have a 2-state trellis
   diagram, Hamming code, and Viterbi algorithm decoding of SPC codes.
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/d358ff569378ab1825c189ee1a6e5777_ps6.pdf
+file_size: 44496
 file_type: application/pdf
 learning_resource_types:
 - Assignments

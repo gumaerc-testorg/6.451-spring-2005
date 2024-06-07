@@ -4,6 +4,7 @@ description: This file contains 8 problems on RM code parameters, optimizing SPC
   EH codes, biorthogonal codes, generator matrices for RM codes, Wagner decoding,
   small cyclic groups, and subgroups of cyclic groups are cyclic.
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/d0b83ebb98447726c9f56f03adc3c0c5_ps4.pdf
+file_size: 55406
 file_type: application/pdf
 learning_resource_types:
 - Assignments

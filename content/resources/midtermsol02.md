@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives solutions for the two problems for the midterm exam
   2002 and the scores for the problems.
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/233218e32dcdaa3019f0aba50e98414b_midtermsol02.pdf
+file_size: 271660
 file_type: application/pdf
 learning_resource_types:
 - Exams
