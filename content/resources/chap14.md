@@ -5,6 +5,7 @@ description: This resource provides introduction to lattice and trellis codes. I
   coding gains of dense lattices, trellis codes, sequential decoding in the high-SNR
   regime and multilevel codes and multistage decoding.
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/5507a5832ab1c9b489ea100d9e2dd2bf_chap14.pdf
+file_size: 240271
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

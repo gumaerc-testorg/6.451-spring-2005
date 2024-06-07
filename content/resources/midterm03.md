@@ -5,6 +5,7 @@ description: 'This resource gives the instructions on how to take the closed boo
   two problems on: feasibility study for a digital communication system and propositions
   with data tables useful to solve the problems.'
 file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/13a4ba8a120cea693cbc1959a80c025b_midterm03.pdf
+file_size: 89569
 file_type: application/pdf
 learning_resource_types:
 - Exams
