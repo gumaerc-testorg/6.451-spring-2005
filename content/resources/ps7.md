@@ -5,7 +5,7 @@ description: This file contains 6 problems on state space sizes in trellises for
   matrix for (16, 5, 8) RM code, minimum-span generators for convolutional codes,
   Trellis complexity of MDS codes, and the Wolf bound, Muder bounds on state and branch
   complexity profiles of (24,12,8) code.
-file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/c1ae830a3f2eea9ed2bcb2b430ba1bce_ps7.pdf
+file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/c1ae830a3f2eea9ed2bcb2b430ba1bce_ps7.pdf
 file_size: 59682
 file_type: application/pdf
 learning_resource_types:
