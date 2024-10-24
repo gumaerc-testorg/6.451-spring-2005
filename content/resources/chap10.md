@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides definition of Trellis representations of binary
   linear block codes, notes on minimal trellises and the state space theorem, and
   permutation and sectionalization problems.
-file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/1b67ae9f5c124c3bd56c8649afa5af47_chap10.pdf
+file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/1b67ae9f5c124c3bd56c8649afa5af47_chap10.pdf
 file_size: 240928
 file_type: application/pdf
 learning_resource_types:

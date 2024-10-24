@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the complete lecture notes
   of electrical engineering and computer science.
-file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/bb895c1dee9ce0b39d6846e0aa984981_MIT6_451S05_FullLecNotes.pdf
+file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/bb895c1dee9ce0b39d6846e0aa984981_MIT6_451S05_FullLecNotes.pdf
 file_size: 3902071
 file_type: application/pdf
 learning_resource_types: []

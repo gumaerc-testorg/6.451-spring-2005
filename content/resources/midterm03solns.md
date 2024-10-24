@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives solutions for the two problems for the midterm exam
   2003 and the scores for the problems.
-file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/a05a253379aba3efbd400e8b82dde603_midterm03solns.pdf
+file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/a05a253379aba3efbd400e8b82dde603_midterm03solns.pdf
 file_size: 91202
 file_type: application/pdf
 learning_resource_types:
