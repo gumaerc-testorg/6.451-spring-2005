@@ -4,7 +4,7 @@ description: 'This resource provides notes on linear time-invariant systems over
   fields, Rate-1/n binary linear convolutional codes, terminated convolutional codes,
   maximum likelihood sequence detection: The VA,and  performance analysis of convolutional
   codes.'
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/43162a4e10d73639903282f4dd58001b_chap9.pdf
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/43162a4e10d73639903282f4dd58001b_chap9.pdf
 file_size: 278178
 file_type: application/pdf
 learning_resource_types:
