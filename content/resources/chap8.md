@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains linear codes over finite fields, singleton bount
   and MDS codes, Reed-Solomon codes , introduction to RS codes, applications of RS
   codes, and binary BCH codes.
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/01060b08ba74792ee8d85eb82b9efdb4_chap8.pdf
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/01060b08ba74792ee8d85eb82b9efdb4_chap8.pdf
 file_size: 922433
 file_type: application/pdf
 learning_resource_types:
