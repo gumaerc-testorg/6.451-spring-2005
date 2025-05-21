@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains notes on Discrete-time AWGN channel model, two
   normalized measures of SNR, power-limited and bandwidth-limited channels, and performance
   of M-PAM and (M ? M )-QAM.
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/b286123989945cef13e5a9aa20e56a18_chap4.pdf
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/b286123989945cef13e5a9aa20e56a18_chap4.pdf
 file_size: 146291
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/ae8aa28e7b9a5b86a2685ab1dce6e19b_MVpmgHSBSc0.vtt
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/ae8aa28e7b9a5b86a2685ab1dce6e19b_MVpmgHSBSc0.vtt
 file_size: 77167
 file_type: application/x-subrip
 learning_resource_types: []

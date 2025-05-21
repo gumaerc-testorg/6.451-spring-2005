@@ -5,7 +5,7 @@ description: This resource gives some tables containing useful data to solve the
   representations and decoding of the (32; 16; 8) binary Reed-Muller code RM(2; 5)
   and various propositions. It also provides instructions for how to take the closed
   book exam.
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/48a03949a4142318ff9a90f4b1dbdc84_final02.pdf
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/48a03949a4142318ff9a90f4b1dbdc84_final02.pdf
 file_size: 102900
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains 5 problems on cartesian-product constellations, invariance
   to translation, orthogonal transformations, or scaling, optimality of zero-mean
   constellations, non-equiprobable signals, and UBE for M -PAM constellations.
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/c0969ee77c735a95efe3ff6895f66aca_ps2.pdf
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/c0969ee77c735a95efe3ff6895f66aca_ps2.pdf
 file_size: 54032
 file_type: application/pdf
 learning_resource_types:

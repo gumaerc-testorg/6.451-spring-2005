@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives solutions for the three problems for the final exam
   2002.
-file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/f96e2d910415543f5f3fe39a80d006ba_final02solns2.pdf
+file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/f96e2d910415543f5f3fe39a80d006ba_final02solns2.pdf
 file_size: 182974
 file_type: application/pdf
 learning_resource_types:
