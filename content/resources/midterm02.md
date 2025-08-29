@@ -4,7 +4,7 @@ description: 'This resource gives the instructions on how to take the closed boo
   exam, it also gives the breakup of marks for each problem and its parts. It cotains
   two problems on: M -simplex signal set is a set of M signals and various propositions
   and statement for if they are true or false.'
-file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/e22f07b085a00cadb730d1f66da290e8_midterm02.pdf
+file: /ol-ocw-studio-app/courses/6-451-principles-of-digital-communication-ii-spring-2005/e22f07b085a00cadb730d1f66da290e8_midterm02.pdf
 file_size: 60458
 file_type: application/pdf
 learning_resource_types:
